@@ -7,5 +7,5 @@ My first repository
 2. **American Psycho**
 : Patrick Bateman appears to be a quintessential yuppie, obsessed with material possessions, status, and the superficial trappings of wealth. He spends his days in a blur of expensive dinners, nightclubs, and corporate meetings, all while maintaining a meticulously groomed image.
 ---
-4. **Civil War**
+3. **Civil War**
 : The war's roots lie in deeply ingrained tensions over slavery, states' rights, and economic differences between the North and the South. The Southern economy heavily relied on enslaved labor for its agricultural prosperity, particularly cotton production. This reliance contrasted sharply with the industrializing North, which opposed slavery on moral and economic grounds.

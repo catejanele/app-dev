@@ -1,4 +1,4 @@
 # app-dev
 My first repository
 
-block blast
+all of the subject is my favorite

@@ -1,4 +1,4 @@
 # app-dev
 My first repository
 
-Beach, Masasa Tingloy Batangas
+to finish school

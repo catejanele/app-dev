@@ -1,4 +1,4 @@
 # app-dev
 My first repository
 
-to finish school
+Exploring the Benefits of a Customize Mobile Application for Library Management at STI College Batangas

@@ -1,4 +1,6 @@
 # app-dev
 My first repository
 
-Jarren 
+SINIGANG
+ADOBONG PUSIT
+FRIEDCHICKEN
